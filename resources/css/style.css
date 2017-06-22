@@ -28,7 +28,7 @@ p {
   font-size: 21px;
   color: Gray;
 }
-#footer {
+#footer important!{
   color: Gray;
   text-align: right;
 }
